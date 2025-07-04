@@ -22,13 +22,17 @@ The notebook performs the following tasks:
 
 ## Project Setup
 
-1. Install dependencies
+1. Clone the repository
+```
+git clone https://github.com/uwituzeb/sound-clustering-assignment.git
+```
+2. Install dependencies
    ```
    pip install numpy matplotlib scikit-learn librosa
    ```
-2. Load the data from the zip file
-3. Run the notebook cells
-4. Analyze results
+3. Load the data from the [zip file](https://drive.google.com/file/d/1bme1IuScdIWjzFkYPOcWzFOgD50MS_zR/view?usp=sharing)
+4. Run the notebook cells
+5. Analyze results
 
 ## Conclusion
 
